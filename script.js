@@ -248,6 +248,13 @@ document.addEventListener("DOMContentLoaded", () => {
         "24 Mayıs 2024", 
         "Lise mezuniyetimizden bir fotoğraf"
     );
+
+    const card32 = createCard(
+        "images/image32.jpg", 
+        "12 Ağustos 2024", 
+        "12 Ağustos 2024", 
+        "Çocukluk fotoğraflarımıza bakarken çok benzeyen iki foğrafı buluşumuz ve senin yıldızlı mesajlarındaki duruşu"
+    );
      
 container.append(card1, card2, card3, card4, card5, card6, card7, card8, card9, card10, card11, card12, card13, card14, card15, card16, card17, card18, card19, card20, card21, card22, card23, card24, card25, card26, card27, card28, card29, card30);
 });
