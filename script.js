@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const container = document.querySelector(".gallery-container");
 
     const card1 = createCard(
-        "image1.jpg", 
+        "image/image1.jpg", 
         "2 Ağustos 2024", 
         "2 Ağustos 2024", 
         "Her şeyin başladığı o ilk gün"
