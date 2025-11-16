@@ -73,12 +73,13 @@
 }
 
 .card-back h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Elms Sans', 'Playfair Display', serif;
     font-size: 1.8rem;
     margin-bottom: 10px;
 }
 
 .card-back p {
+    font-family: 'Elms Sans', 'Playfair Display', serif;
     font-size: 1rem;
     line-height: 1.5;
 }
